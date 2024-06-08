@@ -1,0 +1,58 @@
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.csproj.AssemblyReference.cache
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.AssemblyInfoInputs.cache
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.AssemblyInfo.cs
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.csproj.CoreCompileInputs.cache
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.MvcApplicationPartsAssemblyInfo.cache
+C:\New folder\KumaravelAssesment\bin\Debug\net6.0\appsettings.Development.json
+C:\New folder\KumaravelAssesment\bin\Debug\net6.0\appsettings.json
+C:\New folder\KumaravelAssesment\bin\Debug\net6.0\Data\pluggin.json
+C:\New folder\KumaravelAssesment\bin\Debug\net6.0\KumaravelAssesment.exe
+C:\New folder\KumaravelAssesment\bin\Debug\net6.0\KumaravelAssesment.deps.json
+C:\New folder\KumaravelAssesment\bin\Debug\net6.0\KumaravelAssesment.runtimeconfig.json
+C:\New folder\KumaravelAssesment\bin\Debug\net6.0\KumaravelAssesment.dll
+C:\New folder\KumaravelAssesment\bin\Debug\net6.0\KumaravelAssesment.pdb
+C:\New folder\KumaravelAssesment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\staticwebassets\msbuild.KumaravelAssesment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\staticwebassets\msbuild.build.KumaravelAssesment.props
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.KumaravelAssesment.props
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.KumaravelAssesment.props
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\staticwebassets.build.json
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\staticwebassets.development.json
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\scopedcss\bundle\KumaravelAssesment.styles.css
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.csproj.CopyComplete
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.dll
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\refint\KumaravelAssesment.dll
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.pdb
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.genruntimeconfig.cache
+C:\New folder\KumaravelAssesment\obj\Debug\net6.0\ref\KumaravelAssesment.dll
+C:\MoreSand\MoreSand\KumaravelAssesment\bin\Debug\net6.0\appsettings.Development.json
+C:\MoreSand\MoreSand\KumaravelAssesment\bin\Debug\net6.0\appsettings.json
+C:\MoreSand\MoreSand\KumaravelAssesment\bin\Debug\net6.0\Data\pluggin.json
+C:\MoreSand\MoreSand\KumaravelAssesment\bin\Debug\net6.0\KumaravelAssesment.exe
+C:\MoreSand\MoreSand\KumaravelAssesment\bin\Debug\net6.0\KumaravelAssesment.deps.json
+C:\MoreSand\MoreSand\KumaravelAssesment\bin\Debug\net6.0\KumaravelAssesment.runtimeconfig.json
+C:\MoreSand\MoreSand\KumaravelAssesment\bin\Debug\net6.0\KumaravelAssesment.dll
+C:\MoreSand\MoreSand\KumaravelAssesment\bin\Debug\net6.0\KumaravelAssesment.pdb
+C:\MoreSand\MoreSand\KumaravelAssesment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.csproj.AssemblyReference.cache
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.AssemblyInfoInputs.cache
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.AssemblyInfo.cs
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.csproj.CoreCompileInputs.cache
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.MvcApplicationPartsAssemblyInfo.cache
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\staticwebassets\msbuild.KumaravelAssesment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\staticwebassets\msbuild.build.KumaravelAssesment.props
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.KumaravelAssesment.props
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.KumaravelAssesment.props
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\staticwebassets.build.json
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\staticwebassets.development.json
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\scopedcss\bundle\KumaravelAssesment.styles.css
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.csproj.CopyComplete
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.dll
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\refint\KumaravelAssesment.dll
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.pdb
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\KumaravelAssesment.genruntimeconfig.cache
+C:\MoreSand\MoreSand\KumaravelAssesment\obj\Debug\net6.0\ref\KumaravelAssesment.dll
